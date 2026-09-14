@@ -1,1 +1,4 @@
-This is a sample DevOps application.
+Login Feature
+
+User authentication will be implemented here.
+
